@@ -1,4 +1,4 @@
 - 🔭 I’m currently working on school projects
 - 🌱 I’m currently learning GO
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on school
 - 📫 How to reach me: zafoliaskostas@gmail.com
