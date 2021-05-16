@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on school projects
-- 🌱 I’m currently learning CODM
+- 🔭 I’m currently working on C projects
+- 🌱 I’m currently learning CODM UwU
 - 👯 I’m looking to collaborate on school
 - 📫 How to reach me: zafoliaskostas@gmail.com
